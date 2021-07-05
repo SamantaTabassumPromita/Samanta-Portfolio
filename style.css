@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 span{
     color: orange;
@@ -27,5 +28,18 @@ section{
     background-image: linear-gradient(orange , tomato);
     padding: 10px 40px;
     border-radius: 8px;
+    
+}
+.topbody-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-right: 40px;
     
 }
